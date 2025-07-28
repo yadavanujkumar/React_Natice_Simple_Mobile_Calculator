@@ -147,11 +147,6 @@ Follow Expo's guide to upload the `.aab` to Google Play Console.
 
 ---
 
-## 🧑‍💻 Developer
-
-Made with ❤️ by ANUJJJJ
-
----
 
 ## 📜 License
 
