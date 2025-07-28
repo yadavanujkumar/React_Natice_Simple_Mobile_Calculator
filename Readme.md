@@ -159,12 +159,4 @@ MIT License – use, fork, and contribute freely!
 
 ---
 
-Would you like me to:
-
-* Generate this `README.md` file in your project?
-* Add app screenshots or icons?
-* Add a license and GitHub Actions for automated builds?
-
-Let me know!
-
 https://expo.dev/accounts/yadavanujkumar/projects/my-calculator-app/builds/ced44857-cdd2-45cc-80fd-a330a873ae7b
