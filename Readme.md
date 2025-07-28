@@ -1,6 +1,4 @@
-Here's a professional and detailed **`README.md`** file you can use for your calculator app. It explains everything clearly — from features to installation to development setup — and is ideal for GitHub or documentation:
 
----
 
 ## 🧮 Ultimate Calculator App
 
