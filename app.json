@@ -1,7 +1,19 @@
 {
   "expo": {
-    "name": "SimpleCalculator",
-    "slug": "SimpleCalculator",
-    "version": "1.0.0"
+    "name": "Alina Ka Calcy",
+    "slug": "my-calculator-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./applogo.png",
+    "splash": {
+      "image": "./applogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3ab1a447-6ede-4cdc-8e32-d92456135018"
+      }
+    }
   }
 }
